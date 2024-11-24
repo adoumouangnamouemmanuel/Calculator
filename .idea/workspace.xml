@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e451986-ca86-46d2-840b-db2e6aa899a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbsoluteOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CosineOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CubeOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExponentialOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogarithmOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NaturalLogarithmOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfTenOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReciprocalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SineOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRootOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubtractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TangentOperation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pA9hzB6AxzKmWcl2Vv3RRgnYYk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e451986-ca86-46d2-840b-db2e6aa899a2" name="Changes" comment="" />
+      <created>1732198138159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732198138159</updated>
+      <workItem from="1732198139768" duration="3621000" />
+      <workItem from="1732270599283" duration="1085000" />
+      <workItem from="1732274602666" duration="3512000" />
+      <workItem from="1732292062651" duration="1301000" />
+      <workItem from="1732461098061" duration="17000" />
+      <workItem from="1732465762110" duration="873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
