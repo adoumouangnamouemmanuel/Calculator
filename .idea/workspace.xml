@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e451986-ca86-46d2-840b-db2e6aa899a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbsoluteOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CosineOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CubeOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExponentialOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorialOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogarithmOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NaturalLogarithmOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfTenOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReciprocalOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SineOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquareOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquareRootOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubtractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TangentOperation.java" afterDir="false" />
+    <list default="true" id="4e451986-ca86-46d2-840b-db2e6aa899a2" name="Changes" comment="set up all the basic classes">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -114,10 +87,35 @@
       <workItem from="1732292062651" duration="1301000" />
       <workItem from="1732461098061" duration="17000" />
       <workItem from="1732465762110" duration="873000" />
+      <workItem from="1732476105393" duration="379000" />
     </task>
+    <task id="LOCAL-00001" summary="set up all the basic classes">
+      <option name="closed" value="true" />
+      <created>1732476154822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732476154822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set up all the basic classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up all the basic classes" />
   </component>
 </project>
