@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e451986-ca86-46d2-840b-db2e6aa899a2" name="Changes" comment="set up all the basic classes">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculatorGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <workItem from="1732292062651" duration="1301000" />
       <workItem from="1732461098061" duration="17000" />
       <workItem from="1732465762110" duration="873000" />
-      <workItem from="1732476105393" duration="379000" />
+      <workItem from="1732476105393" duration="2702000" />
     </task>
     <task id="LOCAL-00001" summary="set up all the basic classes">
       <option name="closed" value="true" />
