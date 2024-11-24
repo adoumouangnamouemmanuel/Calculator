@@ -111,7 +111,7 @@ public class CalculatorGUI extends JFrame implements ActionListener {
                 updateDisplay(" ^ ");
                 break;
             case "10ˣ":
-                updateDisplay("x^");
+                updateDisplay("x 10^");
                 break;
             case "π":
                 updateDisplay("π");
