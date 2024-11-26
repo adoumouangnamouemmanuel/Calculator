@@ -75,6 +75,7 @@ public class CalculatorEngine {
             Stack<Double> numbers = new Stack<>();
             Stack<String> operators = new Stack<>();
 
+            expression = expression.replace("π", String.valueOf(Math.PI));
             String[] tokens = expression.split("\\s+");
 
             for (String token : tokens) {
@@ -118,6 +119,7 @@ public class CalculatorEngine {
     }
 
     private boolean isNumber(String token) {
+        if (token.equals("π")) return true;
         try {
             Double.parseDouble(token);
             return true;
